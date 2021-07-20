@@ -1,0 +1,27 @@
+body{
+    background-color:greenyellow;
+}
+
+h1{
+    background-color: black;
+    color: white;
+}
+h2{
+    background-color: honeydew;
+}
+h3{
+    background-color: lightcoral;
+}
+.a {
+    text-align: center;
+}
+.b {
+    text-align: center ;
+}
+
+.c {
+    background-color: lightpink;
+    text-align: center;
+    font: small;
+    text-decoration: underline;
+}
